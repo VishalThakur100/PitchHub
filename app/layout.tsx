@@ -56,7 +56,7 @@ const workSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "YC Backed",
+  title: "YCPitchHub",
   description: "Pitch, Vote and Grow with YC Backed",
 };
 
